@@ -2,7 +2,8 @@
 [Into the Zone](https://martin-ouellet-headcheese.itch.io/into-the-zone) a solo adventure: AUTHOR Martin Ouellet / ILLUSTRATIONS Evelyn Moreau; PROOFREADING Marc Jodoin & Simon Gingras.
 * Online Notes App: [stackedit](https://stackedit.io/app#)
 * Dice rolling online app: [ddice](https://dddice.com/room/KSw-tzW)
-## Colonia Roma, Mty, NL, Mex | 20 Nov, 18:10 - 
+## Colonia Roma, Mty, NL, Mex | 20 Nov, 18:10  - 20:00
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ifwxq2IpchU?si=DhZ0aYkj5WAAORaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Stalker Name**: Renk  
@@ -78,5 +79,5 @@ _Encounter 1_
 **2 Green Rubber Gloves** (1d4=1 / 1d4=2)
 **$3k** in this game + previous $6k = **$9k total**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjQ3NTBdfQ==
+eyJoaXN0b3J5IjpbNDg1NjgyMDgyLDExMjY0NzUwXX0=
 -->
