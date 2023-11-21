@@ -3,7 +3,7 @@
 * Online Notes App: [stackedit](https://stackedit.io/app#)
 * Dice rolling online app: [ddice](https://dddice.com/room/KSw-tzW)
 ## Colonia Roma, Mty, NL, Mex | 20 Nov, 18:10  - 20:00
-_runtime_ 1h50m
+(_runtime_ 1h50m)
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ifwxq2IpchU?si=DhZ0aYkj5WAAORaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -80,5 +80,5 @@ _Encounter 1_
 **2 Green Rubber Gloves** (1d4=1 / 1d4=2)
 **$3k** in this game + previous $6k = **$9k total**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTY5MzgyMSwxMTI2NDc1MF19
+eyJoaXN0b3J5IjpbNTg1ODg4NjkyLDExMjY0NzUwXX0=
 -->
